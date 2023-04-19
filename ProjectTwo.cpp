@@ -1,8 +1,8 @@
 //============================================================================
-// Name        : ABCUCourseCatalogue.cpp
+// Name        : ProjectTwo.cpp
 // Author      : Nicholas Nevins
 // Version     : 1.0
-// Copyright   : Copyright © 2023, format courtesy SNHU assignments
+// Copyright   : Copyright Â© 2023, format courtesy SNHU assignments
 // Description : Handle ABCU Course Lists in a Data Structure
 //============================================================================
 
